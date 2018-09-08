@@ -1,4 +1,5 @@
 /target/
+/.mvn/
 *.jar
 
 ### STS ###
